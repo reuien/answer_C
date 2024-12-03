@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//反转字符串
 int main() {
     long int m = 0;
     printf("Enter a long integer: ");
