@@ -11,7 +11,7 @@ int main(){
     printf("%d",arr[i]);}
   return 0;
 }
-
+//排序
 void sort(int *arr,int length){
   for(int i=0;i<length;i++){
     for(int j=i;j<length;j++){
