@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//查找字符串中的目标字符，
 int Search(char* s,char target){
     for(int i=0;s[i]!='\0';i++){
         if(s[i]==target){
