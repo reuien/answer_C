@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//一元二次方程
 int main(){
   double a=0,b=0,c=0;
   scanf("%d %d %d",&a,&b,&c);
