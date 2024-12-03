@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//大变小
 void toLower(char* s){
      for(int i=0;s[i]!='\0';i++){
        if(s[i]>='A'&&s[i]<='Z')
