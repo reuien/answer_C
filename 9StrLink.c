@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//链接两个字符串
 void StrLink(char* s1,char *s2){
     while(*s1){
         s1++;
