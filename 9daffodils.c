@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//水仙花数
 int main(){
   int i=100;
   int ones_digit=0;
