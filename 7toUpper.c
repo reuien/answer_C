@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//小写变大写
 void toUpper(char* s){
   for (int i=0;s[i]!='\0';i++) {
     if (s[i]>='a'&&s[i]<='z') {
