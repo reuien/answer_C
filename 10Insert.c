@@ -1,4 +1,5 @@
 #include <stdio.h>
+//往数组里插入元素
 void Insert(int arr[], int *size, int num) {
     int i;
     for (i = 0; i < *size; i++) {
