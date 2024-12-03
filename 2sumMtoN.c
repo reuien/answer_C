@@ -6,6 +6,6 @@ int main(){
   for(int i=m;i<=n;i++){
     sum+=i;
     }
-  printf("%d",sum);
+  printf("%d",sum);//m_n之间的和
   return 0;
 }
