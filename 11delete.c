@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//删除第一个出现的元素x
 int  Delete(int *arr,int x,int n){
   int fast=0;
   int slow=0;
