@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//拷贝字符串
 void Strcopy(char *s1, char *s2) {
     while (*s2 != '\0') {
         *s1 = *s2;
