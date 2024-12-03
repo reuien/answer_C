@@ -1,5 +1,5 @@
 //
-// Created by yuinen on 24-12-1.
+// 求字符串长度
 //
 #include <stdio.h>
 int StrLength(char* str){
