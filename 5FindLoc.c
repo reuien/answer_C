@@ -5,7 +5,7 @@ int FindLoc(char *s, char ch){
            return i;
            }
      }return -1;
-}
+}//找元素，找到返回位置，没找到返回-1
 int main(){
     char ch;
     scanf("%c",&ch);
