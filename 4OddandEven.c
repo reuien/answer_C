@@ -7,7 +7,7 @@ void fun(int *a,int n,int *odd,int *even){
         }else *odd+=a[i];
     }
 }
-
+//奇偶和
     int main(){
         int n=0;
         scanf("%d",&n);
