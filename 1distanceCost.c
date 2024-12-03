@@ -1,4 +1,5 @@
 #include <stdio.h>
+//过于简单懒得写完，且要求不明确
 int main(){
     float p,s;
     scanf("%f",&s);
