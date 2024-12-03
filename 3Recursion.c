@@ -11,5 +11,5 @@ int main(){
   int res=fun(x);
   printf("%d",res);
   return 0;
-
+//求阶乘
 }
