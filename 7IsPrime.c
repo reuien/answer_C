@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//判断素数
 void IsPrime(int x){
   if(x<=1){
     printf("NO");
